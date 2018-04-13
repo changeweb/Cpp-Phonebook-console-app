@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1523532944 source:/home/mim/Desktop/phonebook/main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<limits>
+	"sortedtype.cpp"
+
+1523533058 source:/home/mim/Desktop/phonebook/sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1523526846 /home/mim/Desktop/phonebook/sortedtype.h
+
+1523547905 /home/mim/Desktop/phonebook/sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1523526304 source:h:\public\phonebook\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1523505246 h:\public\phonebook\sortedtype.h
+
+1523551722 source:h:\public\phonebook\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<limits>
+	"sortedtype.cpp"
+
+1523526304 h:\public\phonebook\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1523551722 source:g:\phonebook\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<limits>
+	"sortedtype.cpp"
+
+1523526304 g:\phonebook\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1523505246 g:\phonebook\sortedtype.h
+
+1523526304 source:g:\phonebook\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1523551722 source:e:\phonebook\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<limits>
+	"sortedtype.cpp"
+
+1523526304 e:\phonebook\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1523505246 e:\phonebook\sortedtype.h
+
+1523526304 source:e:\phonebook\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
